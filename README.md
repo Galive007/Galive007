@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;UI+Lover&center=true&size=24)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+Enthusiast&center=true&size=24)
 
 </h1>
 
