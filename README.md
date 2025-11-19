@@ -1,5 +1,9 @@
 ## Hi there 👋
+## 🚀 About Me
 
+I am a professional Web Develper....
+
+Hello there! My name is Al Amin, I have completed my graduation in computer science and engineering. Now I am working in web design and development. I had been working in IT Industries for the last many years. I have worked with different programming languages such as HTML5, CSS3, CSS3 Animation, Tailwind, Bootstrap, JavaScript, JQuery Animation, React,Express Js,Node js And Mongo, MySQL, SQL. And I am capable to convert PSD to HTML, bootstrap, email templates, plugins, customization, and back-end development. I've had plenty of experience with developing sites.
 <!--
 **Galive007/Galive007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
