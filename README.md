@@ -61,10 +61,4 @@ Here are some ideas to get you started:
 </div>
 
 ###
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/galive007/galive007/output/snake.svg" alt="Snake animation" />
-
-###
