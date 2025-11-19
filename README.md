@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 -->
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+<h1 align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;UI+Lover&center=true&size=24)
+
+</h1>
+
 ###
 
 <div align="center">
