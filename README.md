@@ -62,3 +62,19 @@ Here are some ideas to get you started:
 
 ###
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics </h3>
+<img align="left" height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galive007&layout=compact&theme=dark" alt="galive007" />
+<p>&nbsp;<img align="center" height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=galive007&show_icons=true&locale=en&theme=dark" alt="galive007" /></p>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=galive007&theme=dark&hide_border=false" alt="galive007" />
+</p>
+
+<h3 align="left"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Activity Grapgh </h3>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=galive007&theme=react-dark&area=true&hide_border=true&custom_color=0a1f44"/>
+
+
+<h3 align="left"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Contribution Snake </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</p>
