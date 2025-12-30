@@ -1,4 +1,4 @@
-## 🚀 About Me
+
 <h1 align="start">I am a professional <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Application%20Developer;MERN%20Stack%20Developer;React%20Enthusiast&center=true&size=24" /></h1>
 
 Hello there 👋! </br>
