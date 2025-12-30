@@ -2,7 +2,7 @@
 <h1 align="start">I am a professional <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Application%20Developer;MERN%20Stack%20Developer;React%20Enthusiast&center=true&size=24" /></h1>
 
 Hello there 👋! </br>
-My name is Al Amin, I have completed my graduation in computer science and engineering. Now I am working in web design and development. I had been working in IT Industries for the last many years. I have worked with different programming languages such as HTML5, CSS3, CSS3 Animation, Tailwind, Bootstrap, JavaScript, JQuery Animation, React,Express Js,Node js And MongoDB, MySQL, SQL. And I am capable to convert PSD to HTML, bootstrap, email templates, and back-end development. I've had plenty of experience with developing sites.
+My name is Al Amin, I have completed my graduation in computer science and engineering. Now I am working in web design and development. I had been working in IT Industries for the last many years. I have worked with different programming languages such as HTML5, CSS3, CSS3 Animation, Tailwind, Bootstrap, JavaScript, JQuery Animation, React,Express Js,Node js And MongoDB, MySQL. And I am capable to convert PSD to HTML, bootstrap, email templates, and back-end development. I've had plenty of experience with developing sites.
 <!--
 **Galive007/Galive007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning ...
