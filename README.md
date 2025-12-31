@@ -1,6 +1,8 @@
 
 <h1 align="start">I am a professional <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Application%20Developer;MERN%20Stack%20Developer;React%20Enthusiast&center=true&size=24" /></h1>
 
+
+
 Hello there 👋! </br>
 My name is Al Amin, I have completed my graduation in computer science and engineering. Now I am working in web design and development. I had been working in IT Industries for the last many years. I have worked with different programming languages such as HTML5, CSS3, CSS3 Animation, Tailwind, Bootstrap, JavaScript, JQuery Animation, React,Express Js,Node js And MongoDB, MySQL. And I am capable to convert PSD to HTML, bootstrap, email templates, and back-end development. I've had plenty of experience with developing sites.
 <!--
@@ -12,10 +14,12 @@ Here are some ideas to get you started:
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 CodeMan 🚀 | MERN stack web apps by day, IoT and Raspberry Pi experiments by night | Making web application meet the real world.
 
----
+
+
 
 ## 🚀 *What I Do*
 - 💻 Build responsive & modern interfaces using *React.js*
@@ -72,7 +76,6 @@ CodeMan 🚀 | MERN stack web apps by day, IoT and Raspberry Pi experiments by n
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics </h3>
 <img align="left" height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galive007&layout=compact&theme=dark" alt="galive007" />
 <p>&nbsp;<img align="center" height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=galive007&show_icons=true&locale=en&theme=dark" alt="galive007" /></p>
